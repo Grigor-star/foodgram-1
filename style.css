@@ -155,15 +155,6 @@ header {
     position: relative;
 }
 
-.pizza {
-    margin-top: 200px;
-    position: absolute;
-    left: 200px;
-    filter: drop-shadow(15px 15px 0 white) 
-            drop-shadow(-15px 15px 0 white) 
-            drop-shadow(15px -15px 0 white)    
-            drop-shadow(-15px -15px 0 white);
-}
 
 .about {
     display: flex;
